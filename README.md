@@ -25,4 +25,4 @@ Aplikacja stworzona w React, która umożliwia użytkownikom filtrowanie element
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone https://github.com/twoja-nazwa-uzytkownika/filtrowanie-aplikacja.git
+   git clone https://github.com/PiotrKochanka/filters.git
